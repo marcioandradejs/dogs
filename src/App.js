@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  return <div>App React</div>;
+  return <div>Dogs React</div>;
 }
 
 export default App;
