@@ -5,7 +5,10 @@ import Head from './Helper/Head';
 const Home = () => {
   return (
     <section className="container mainContainer">
-      <Head title="Feed" description="Home do site Dos, com o feed de fotos." />
+      <Head
+        title="Feed"
+        description="Home do site Dogs, com o feed de fotos."
+      />
       <Feed />
     </section>
   );
